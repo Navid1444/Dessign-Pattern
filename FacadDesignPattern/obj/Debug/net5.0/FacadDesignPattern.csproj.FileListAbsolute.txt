@@ -1,0 +1,16 @@
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.csproj.AssemblyReference.cache
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.AssemblyInfoInputs.cache
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.AssemblyInfo.cs
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.csproj.CoreCompileInputs.cache
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\bin\Debug\net5.0\FacadDesignPattern.exe
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\bin\Debug\net5.0\FacadDesignPattern.deps.json
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\bin\Debug\net5.0\FacadDesignPattern.runtimeconfig.json
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\bin\Debug\net5.0\FacadDesignPattern.runtimeconfig.dev.json
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\bin\Debug\net5.0\FacadDesignPattern.dll
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\bin\Debug\net5.0\FacadDesignPattern.pdb
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.dll
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\refint\FacadDesignPattern.dll
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.pdb
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\FacadDesignPattern.genruntimeconfig.cache
+D:\leran\DDD\Session03\FacadDesignPattern\FacadDesignPattern\obj\Debug\net5.0\ref\FacadDesignPattern.dll
