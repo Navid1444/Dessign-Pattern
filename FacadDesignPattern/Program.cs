@@ -60,7 +60,16 @@ namespace FacadDesignPattern
         {
             _tower.Remove(this);
         }
+
+
+
+
     }
+
+
+
+
+
 
     public class AirBus : AirPlain
     {
